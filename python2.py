@@ -1,2 +1,2 @@
-hi my name is harshita gupta 
-add four numbers
+hi I am harshita 
+add three numbers 
