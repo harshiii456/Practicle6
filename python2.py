@@ -1,1 +1,2 @@
-hi my name is harshita
+hi I  am  harshita
+add three numbers 
