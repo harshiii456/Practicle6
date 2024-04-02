@@ -1,2 +1,2 @@
-hi I  am  harshita
+hi I am harshita 
 add three numbers 
